@@ -1,4 +1,4 @@
-import random  
+import random 
 def put1(height):
     height2=0
     while(height2<height):
