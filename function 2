@@ -1,0 +1,2 @@
+def put2(first,second):
+    print("The sum is:",first+second)
