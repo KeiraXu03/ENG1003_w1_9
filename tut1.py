@@ -66,4 +66,4 @@ while(g==1 or g==2 or g==3 or g==4 or g==5):
      elif int(g)==5:
         put5()
      elif (g!=1 and g!=2 and g!=3 and g!=4 and g!=5):
-        print("wrong  number!")
+        print("wrong  number !")
