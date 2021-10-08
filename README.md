@@ -47,6 +47,7 @@ This is a graph of global airline data. Under normal circumstances, you can see 
 
 # task 3 Methodology results and Discussion
 <img width="540" height="450" src="https://github.com/KeiraXu03/image/blob/main/task3.gif"/>
+
 # task 4 Methodology results and Discussion
 
 # Reflective Essay
