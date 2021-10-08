@@ -25,7 +25,7 @@
 When flying in an airplane, we often think back: what is the trajectory of the plane in the sky？ how the plane's route is planned？
 This is a graph of global airline data. Under normal circumstances, you can see that there are approximately 100,000 aircraft movements per day, taking off and landing between 6,000 airports.
 
-![This is an image](https://www.researchgate.net/profile/Jan-Bieser/publication/333867743/figure/fig2/AS:771428257374208@1560934237674/Bar-chart-showing-the-number-of-observations-value-attribute-for-each-age-group-key.png)
+![This is an image](https://github.com/KeiraXu03/image/blob/main/228e227c81520ac0d7b7af5427e98cb.png)
 
 "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
 
