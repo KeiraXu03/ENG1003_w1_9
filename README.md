@@ -41,12 +41,12 @@ This is a graph of global airline data. Under normal circumstances, you can see 
 
 # Task 1 Methodology results and Discussion
 ## outcome:
-<img width="520" height="450" src="https://github.com/KeiraXu03/image/blob/main/task1.gif"/>
+<img width="540" height="450" src="https://github.com/KeiraXu03/image/blob/main/task1.gif"/>
 
 # Task 2 Methodology results and Discussion
 
 # task 3 Methodology results and Discussion
-
+<img width="540" height="450" src="https://github.com/KeiraXu03/image/blob/main/task3.gif"/>
 # task 4 Methodology results and Discussion
 
 # Reflective Essay
