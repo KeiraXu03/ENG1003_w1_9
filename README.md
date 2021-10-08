@@ -22,7 +22,7 @@
 # Background of Path Planning to Aviation Engineering
 
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+When flying in an airplane, we often think back: what is the trajectory of the plane in the sky, how the plane's route is planned
 
 ![This is an image](https://www.researchgate.net/profile/Jan-Bieser/publication/333867743/figure/fig2/AS:771428257374208@1560934237674/Bar-chart-showing-the-number-of-observations-value-attribute-for-each-age-group-key.png)
 
