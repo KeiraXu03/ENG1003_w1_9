@@ -4,7 +4,7 @@
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-    <li><a href="#Background-ofPath-Planning-to-Aviation-Engineering">Background of Path Planning to Aviation Engineering</a></li>
+    <li><a href="#Background-of-Path-Planning-to-Aviation-Engineering">Background of Path Planning to Aviation Engineering</a></li>
     <li><a href="#Theory-of-Path-Planning-Algorithm">Theory of Path Planning Algorithm</a></li>
     <li><a href="#Introduction-of-the-Engineering-Tools">Introduction of the Engineering Tools</a></li>
     <li><a href="#Task-1-Methodology-results-and-Discussion">Task 1:Methodology,results and Discussion</a></li>
