@@ -39,7 +39,7 @@ This is a graph of global airline data. Under normal circumstances, you can see 
 ## a.Python
 
 ### Introduction
-Python was founded by Guido van Rossum, who was working at the Dutch Mathematical and Computer Science Research Institute in Amsterdam, and during Christmas 1989, Guido van Rossum, in order to pass the time, decided to develop a new interpretive scripting language as a successor to the ABC language, as an alternative to using the Unix shell and C for system administration, and to take on the responsibility of interacting with the Amoeba operating system and handling exceptions. Interaction and exception handling with the Amoeba operating system [[1]](#jump)
+Python was founded by Guido van Rossum, who was working at the Dutch Mathematical and Computer Science Research Institute in Amsterdam, and during Christmas 1989, Guido van Rossum, in order to pass the time, decided to develop a new interpretive scripting language as a successor to the ABC language, as an alternative to using the Unix shell and C for system administration, and to take on the responsibility of interacting with the Amoeba operating system and handling exceptions. Interaction and exception handling with the Amoeba operating system [[1]](#jump1)
 
 # Task 1 Methodology results and Discussion
 ## Result:
@@ -55,7 +55,4 @@ Python was founded by Guido van Rossum, who was working at the Dutch Mathematica
 # Reflective Essay
 
 # Reference
-
-<a id="head"/>[1]</a>
-
-<span id="jump">[1]</span>
+<span id="jump1">[1]</span>
