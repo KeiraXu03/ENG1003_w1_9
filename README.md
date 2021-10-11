@@ -67,12 +67,12 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 * *On March 17, 2020, Github announced the acquisition of npm. GitHub has now guaranteed that npm will always be free to use.*
 # Task 1 Methodology results and Discussion
 ## Result:
-<img width="560" height="450" src="https://github.com/KeiraXu03/image/blob/main/task1.gif"/>
+<img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task1.gif"/>
 
 # Task 2 Methodology results and Discussion
 
 # task 3 Methodology results and Discussion
-<img width="560" height="450" src="https://github.com/KeiraXu03/image/blob/main/task3.gif"/>
+<img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task3.gif"/>
 
 # task 4 Methodology results and Discussion
 
