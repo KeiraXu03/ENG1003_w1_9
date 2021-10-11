@@ -42,7 +42,17 @@ This is a graph of global airline data. Under normal circumstances, you can see 
 Python was founded by Guido van Rossum, who was working at the Dutch Mathematical and Computer Science Research Institute in Amsterdam, and during Christmas 1989, Guido van Rossum, in order to pass the time, decided to develop a new interpretive scripting language as a successor to the ABC language, as an alternative to using the Unix shell and C for system administration, and to take on the responsibility of interacting with the Amoeba operating system and handling exceptions. Interaction and exception handling with the Amoeba operating system [[1]](#jump1)
 ![python](https://github.com/KeiraXu03/image/blob/main/python.png)
 Python reached version 1.0 in January 1994. The main new feature of this release is to include the functional programming tools lambda, map, filter and reduce provided by Amrit Prem[[2]](#jump2)
-### Features
+### What python can do?
+* Python can be used on a server to create web applications.  
+* Python can be used alongside software to create workflows.  
+* Python can connect to database systems. It can also read and modify files.  
+* Python can be used to handle big data and perform complex mathematics.  
+* Python can be used for rapid prototyping, or for production-ready software development
+
+## b.Github
+
+### What is Github?
+
 
 # Task 1 Methodology results and Discussion
 ## Result:
