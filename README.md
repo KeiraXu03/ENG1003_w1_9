@@ -50,7 +50,8 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 * *Python can be used for rapid prototyping, or for production-ready software development.*  
 
 ## b.Github
-<div align=center><img width="250" height="250" src="https://github.com/KeiraXu03/image/blob/main/github2.png/></div>
+<img width="250" height="250" src="https://github.com/KeiraXu03/image/blob/main/github2.png"/>
+  
 ### What is Github?
 * *A social network and platform for software developers*  
 * *A place where people can share code*    
