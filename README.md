@@ -79,8 +79,8 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 # Reflective Essay
 
 # Reference
-<span id="jump1">[1]</span>Why was Python created in the first place?. Python FAQ. [2007-03-22].   
-<span id="jump2">[2]</span>van Rossum, Guido. The fate of reduce() in Python 3000. Artima Developer. [2007-03-22].  
-<span id="jump3">[3]</span>Weis, Kristina. GitHub CEO and Co-Founder Chris Wanstrath Keynoting Esri’s DevSummit!. 2014-02-10 [2015-07-02].   
-<span id="jump4">[4]</span>Dave Lee. Microsoft buys Github code-sharing site for $7.5bn. BBC News. 2018-06-04 [2018-06-06].   
-<span id="jump5">[5]</span>defunkt. A bright future for GitHub. The GitHub Blog. 2018-06-04 [2018-06-06]. 
+<span id="jump1">[1]</span>* Why was Python created in the first place?. Python FAQ. [2007-03-22].*     
+<span id="jump2">[2]</span>* van Rossum, Guido. The fate of reduce() in Python 3000. Artima Developer. [2007-03-22].*    
+<span id="jump3">[3]</span>* Weis, Kristina. GitHub CEO and Co-Founder Chris Wanstrath Keynoting Esri’s DevSummit!. 2014-02-10 [2015-07-02].*  
+<span id="jump4">[4]</span>* Dave Lee. Microsoft buys Github code-sharing site for $7.5bn. BBC News. 2018-06-04 [2018-06-06].*       
+<span id="jump5">[5]</span>* defunkt. A bright future for GitHub. The GitHub Blog. 2018-06-04 [2018-06-06].*   
