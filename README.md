@@ -21,8 +21,8 @@
 # Background of Path Planning to Aviation Engineering
 
 
-When flying in an airplane, we often think back: what is the trajectory of the plane in the sky？ how the plane's route is planned？
-This is a graph of global airline data. Under normal circumstances, you can see that there are approximately 100,000 aircraft movements per day, taking off and landing between 6,000 airports.
+When travelling by air, we may often think: what is the trajectory of the plane in the sky？ how is the plane's route  planned？
+This is a graph of global airline data. Under normal circumstances.You can see that there are approximately 100,000 aircraft movements per day, taking off and landing between 6,000 airports.
 
 ![This is an image](https://github.com/KeiraXu03/image/blob/main/228e227c81520ac0d7b7af5427e98cb.png)
 
