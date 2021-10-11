@@ -58,5 +58,5 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 # Reflective Essay
 
 # Reference
-<span id="jump1">[1]</span>Why was Python created in the first place?. Python FAQ. [2007-03-22]. 
+<span id="jump1">[1]</span>Why was Python created in the first place?. Python FAQ. [2007-03-22].   
 <span id="jump2">[2]</span>van Rossum, Guido. The fate of reduce() in Python 3000. Artima Developer. [2007-03-22].
