@@ -41,7 +41,7 @@ This is a graph of global airline data. Under normal circumstances, you can see 
 ### Introduction
 Python was founded by Guido van Rossum, who was working at the Dutch Mathematical and Computer Science Research Institute in Amsterdam, and during Christmas 1989, Guido van Rossum, in order to pass the time, decided to develop a new interpretive scripting language as a successor to the ABC language, as an alternative to using the Unix shell and C for system administration, and to take on the responsibility of interacting with the Amoeba operating system and handling exceptions. Interaction and exception handling with the Amoeba operating system [[1]](#jump1)
 ![python](https://github.com/KeiraXu03/image/blob/main/python.png)
-Python reached version 1.0 in January 1994. The main new feature of this release is to include the functional programming tools lambda, map, filter and reduce provided by Amrit Prem[[2]](#jump2)van Rossum, Guido. The fate of reduce() in Python 3000. Artima Developer. [2007-03-22].
+Python reached version 1.0 in January 1994. The main new feature of this release is to include the functional programming tools lambda, map, filter and reduce provided by Amrit Prem[[2]](#jump2)
 ### Features
 
 # Task 1 Methodology results and Discussion
@@ -59,4 +59,4 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 
 # Reference
 <span id="jump1">[1]</span>Why was Python created in the first place?. Python FAQ. [2007-03-22]. 
-<span id="jump2">[2]</span>
+<span id="jump2">[2]</span>van Rossum, Guido. The fate of reduce() in Python 3000. Artima Developer. [2007-03-22].
