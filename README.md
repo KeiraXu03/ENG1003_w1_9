@@ -59,10 +59,11 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 * *Many big companies are using it*  
 * *A place to Share, Communicate, Collaborate with others, especially programmers*  
 
-### How GitHub developed？
-* *On April 10, 008, GitHub was officially launched.*  
+### How GitHubThe GitHub developed？
+* *The GitHub platform began development on October 1, 2007.*[[3]](#jump3)  
+* *On April 10, 2008, GitHub was officially launched.*  
 * *On January 23, 2014, co-founder Tom Preston-Werner took over the position of president from another co-founder, Chris Wanstrath. The latter will also take over the CEO position left by Preston Werner.*  
-* *On the evening of June 4, 2018, Microsoft announced that it had acquired GitHub through a $7.5 billion stock transaction. [[3]](#jump3) On October 26, Microsoft's $7.5 billion acquisition of GitHub was completed. On October 29th, Microsoft's vice president of developer services, Nat Friedman (Nat Friedman) will become the new CEO of GitHub. 
+* *On the evening of June 4, 2018, Microsoft announced that it had acquired GitHub through a $7.5 billion stock transaction.On October 26, Microsoft's $7.5 billion acquisition of GitHub was completed. On October 29th, Microsoft's vice president of developer services, Nat Friedman (Nat Friedman) will become the new CEO of GitHub. 
 * *On March 17, 2020, Github announced the acquisition of npm. GitHub has now guaranteed that npm will always be free to use.
 # Task 1 Methodology results and Discussion
 ## Result:
@@ -79,5 +80,5 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 
 # Reference
 <span id="jump1">[1]</span>Why was Python created in the first place?. Python FAQ. [2007-03-22].   
-<span id="jump2">[2]</span>van Rossum, Guido. The fate of reduce() in Python 3000. Artima Developer. [2007-03-22].
-<span id="jump3">[3]</span>Weis, Kristina. GitHub CEO and Co-Founder Chris Wanstrath Keynoting Esri’s DevSummit!. 2014-02-10 [2015-07-02]. 
+<span id="jump2">[2]</span>van Rossum, Guido. The fate of reduce() in Python 3000. Artima Developer. [2007-03-22].  
+<span id="jump3">[3]</span>Weis, Kristina. GitHub CEO and Co-Founder Chris Wanstrath Keynoting Esri’s DevSummit!. 2014-02-10 [2015-07-02].  
