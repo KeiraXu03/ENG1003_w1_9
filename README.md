@@ -66,6 +66,13 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 * *On the evening of June 4, 2018, American technology company Microsoft announced the acquisition of GitHub for $7.5 billion in stocks[[4]](#jump4)[[5]](#jumup5).On October 29th, Microsoft's vice president of developer services, Nat Friedman (Nat Friedman) will become the new CEO of GitHub.*  
 * *On March 17, 2020, Github announced the acquisition of npm. GitHub has now guaranteed that npm will always be free to use.*
 # Task 1 Methodology results and Discussion
+## Methodology:
+### First,we should find the code which needs to be changed.
+** Start and Finish Point：**  
+![1](https://github.com/KeiraXu03/image/blob/main/08bc4b5b246daf9f1ddbfa83321f580.png)
+** Set obstacle positions  **  
+![2](https://github.com/KeiraXu03/image/blob/main/08bc4b5b246daf9f1ddbfa83321f580.png)
+According to our goal,we change the code:
 ## Result:
 <img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task1.gif"/>
 
