@@ -68,9 +68,9 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 # Task 1 Methodology results and Discussion
 ## Methodology:
 ### First,we should find the code which needs to be changed.
-** Start and Finish Point：**  
+**Start and Finish Point：**  
 ![1](https://github.com/KeiraXu03/image/blob/main/08bc4b5b246daf9f1ddbfa83321f580.png)
-** Set obstacle positions  **  
+**Set obstacle positions: **   
 ![2](https://github.com/KeiraXu03/image/blob/main/08bc4b5b246daf9f1ddbfa83321f580.png)
 According to our goal,we change the code:
 ## Result:
