@@ -72,7 +72,9 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 ![1](https://github.com/KeiraXu03/image/blob/main/08bc4b5b246daf9f1ddbfa83321f580.png)
 **Set obstacle positions:**   
 ![2](https://github.com/KeiraXu03/image/blob/main/08bc4b5b246daf9f1ddbfa83321f580.png)
-**Secondly,according to our goal,we change the code:**
+**Set fuel consuming area and time consuming area:**
+![3](https://github.com/KeiraXu03/image/blob/main/08bc4b5b246daf9f1ddbfa83321f580.png)
+### Secondly,according to our goal,we change the code:**
 ```
 # start and goal position
     sx = 0.0  # [m]
@@ -106,6 +108,22 @@ Python reached version 1.0 in January 1994. The main new feature of this release
     for i in range(40, 50):
         ox.append(i)
         oy.append(140-2*i)
+```
+****
+```
+# set fuel consuming area
+    fc_x, fc_y = [], []
+    for i in range(30, 35):
+        for j in range(0, 40):
+            fc_x.append(i)
+            fc_y.append(j)
+    
+    # set time consuming area
+    tc_x, tc_y = [], []
+    for i in range(0, 20):
+        for j in range(20, 40):
+            tc_x.append(i)
+            tc_y.append(j)
 ```
 ## Result:
 <img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task1.gif"/>
