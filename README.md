@@ -63,15 +63,17 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 * *The GitHub platform began development on October 1, 2007.*[[3]](#jump3)  
 * *On April 10, 2008, GitHub was officially launched.*  
 * *On January 23, 2014, co-founder Tom Preston-Werner took over the position of president from another co-founder, Chris Wanstrath. The latter will also take over the CEO position left by Preston Werner.*  
-* *On the evening of June 4, 2018, American technology company Microsoft announced the acquisition of GitHub for $7.5 billion in stocks[[4]](#jump4)[[5]](#jumup5).On October 29th, Microsoft's vice president of developer services, Nat Friedman (Nat Friedman) will become the new CEO of GitHub.*  
+* *On the evening of June 4, 2018, American technology company Microsoft announced the acquisition of GitHub for $7.5 billion in stocks[[4]](#jump4) [[5]](#jumup5).On October 29th, Microsoft's vice president of developer services, Nat Friedman (Nat Friedman) will become the new CEO of GitHub.*  
 * *On March 17, 2020, Github announced the acquisition of npm. GitHub has now guaranteed that npm will always be free to use.*
 # Task 1 Methodology results and Discussion
 ## Methodology:
 ### First,we should find the code which needs to be changed.
 **Start and Finish Point:**  
 ![1](https://github.com/KeiraXu03/image/blob/main/08bc4b5b246daf9f1ddbfa83321f580.png)
+****
 **Set obstacle positions:**   
 ![2](https://github.com/KeiraXu03/image/blob/main/08bc4b5b246daf9f1ddbfa83321f580.png)
+****
 **Set fuel consuming area and time consuming area:**
 ![3](https://github.com/KeiraXu03/image/blob/main/08bc4b5b246daf9f1ddbfa83321f580.png)
 ### Secondly,according to our goal,we change the code:**
