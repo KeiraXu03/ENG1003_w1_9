@@ -72,10 +72,10 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 ![1](https://github.com/KeiraXu03/image/blob/main/08bc4b5b246daf9f1ddbfa83321f580.png)
 ****
 **Set obstacle positions:**   
-![2](https://github.com/KeiraXu03/image/blob/main/08bc4b5b246daf9f1ddbfa83321f580.png)
+![2](https://github.com/KeiraXu03/image/blob/main/b371647410ce3d465af05395a40fb69.png)
 ****
 **Set fuel consuming area and time consuming area:**
-![3](https://github.com/KeiraXu03/image/blob/main/08bc4b5b246daf9f1ddbfa83321f580.png)
+![3](https://github.com/KeiraXu03/image/blob/main/6a1f1753efd2a5eb662ab240d4283bb.png)
 ### Secondly,according to our goal,we change the code:**
 ```
 # start and goal position
@@ -89,20 +89,6 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 ****
 ```
     # set obstacle positions for group 9
-    ox, oy = [], []
-    for i in range(-10, 60): # draw the button border 
-        ox.append(i)
-        oy.append(-10.0)
-    for i in range(-10, 60): # draw the right border
-        ox.append(60.0)
-        oy.append(i)
-    for i in range(-10, 60): # draw the top border
-        ox.append(i)
-        oy.append(60.0)
-    for i in range(-10, 60): # draw the left border
-        ox.append(-10.0)
-        oy.append(i)
-
     for i in range(-10, 20): # draw the free border
         ox.append(20.0)
         oy.append(i)
