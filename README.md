@@ -68,11 +68,45 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 # Task 1 Methodology results and Discussion
 ## Methodology:
 ### First,we should find the code which needs to be changed.
-**Start and Finish Point：**  
+**Start and Finish Point:**  
 ![1](https://github.com/KeiraXu03/image/blob/main/08bc4b5b246daf9f1ddbfa83321f580.png)
-**Set obstacle positions: **   
+**Set obstacle positions:**   
 ![2](https://github.com/KeiraXu03/image/blob/main/08bc4b5b246daf9f1ddbfa83321f580.png)
-According to our goal,we change the code:
+**Secondly,according to our goal,we change the code:**
+```
+# start and goal position
+    sx = 0.0  # [m]
+    sy = 0.0  # [m]
+    gx = 50.0  # [m]
+    gy = 50.0  # [m]
+    grid_size = 1  # [m]
+    robot_radius = 1.0  # [m]
+```
+****
+```
+    # set obstacle positions for group 9
+    ox, oy = [], []
+    for i in range(-10, 60): # draw the button border 
+        ox.append(i)
+        oy.append(-10.0)
+    for i in range(-10, 60): # draw the right border
+        ox.append(60.0)
+        oy.append(i)
+    for i in range(-10, 60): # draw the top border
+        ox.append(i)
+        oy.append(60.0)
+    for i in range(-10, 60): # draw the left border
+        ox.append(-10.0)
+        oy.append(i)
+
+    for i in range(-10, 20): # draw the free border
+        ox.append(20.0)
+        oy.append(i)
+
+    for i in range(40, 50):
+        ox.append(i)
+        oy.append(140-2*i)
+```
 ## Result:
 <img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task1.gif"/>
 
