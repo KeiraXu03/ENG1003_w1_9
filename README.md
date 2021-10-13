@@ -125,7 +125,8 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 ```
 ## Result:
 <img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task1.gif"/>
-
+**We tried all the data and found that the model PolyU-A380 achieved minimum cost.**
+![2](https://github.com/KeiraXu03/image/blob/main/e24b1eae634324769b137ecdd37282e.png)
 # Task 2 Methodology results and Discussion
 
 # task 3 Methodology results and Discussion
