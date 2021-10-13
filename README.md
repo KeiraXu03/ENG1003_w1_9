@@ -134,7 +134,6 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 # Task 2 Methodology results and Discussion
 ## Methodology:
 ### First,we use C++ to help us find the possible values of the variables.
-
 <<details>
   <summary>折叠代码块</summary>
   <pre><code> 
