@@ -134,12 +134,14 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 # Task 2 Methodology results and Discussion
 ## Methodology:
 ### First,we use C++ to help us find the possible values of the variables.
-```
+
 <details>
 <summary>折叠内容</summary>
-在markdown中折叠一部分内容, 点击可以展开.
-</details>
 ```
+print("f")
+```
+</details>
+
 
 
 
@@ -150,7 +152,7 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 * We need to create a minus cost area
 ### Secondly,according to our goal,we change the code:
 **Calculate the cost:** 
-```
+```python
 # add minus cost in minus cost area
                 if self.calc_grid_position(node.x, self.min_x) in self.pc_x:
                     if self.calc_grid_position(node.y, self.min_y) in self.pc_y:
@@ -159,7 +161,7 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 ```
 ****
 **Set minus cost area:**
-```
+```python
 # set minus cost area
     tc_x, tc_y = [], []
     for i in range(0, 20):
