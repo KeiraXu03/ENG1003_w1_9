@@ -142,7 +142,13 @@ Python reached version 1.0 in January 1994. The main new feature of this release
   </code></pre>
 </details>
 
+<details>
+<summary>123</summary>
 
+```java
+import(这里是代码区域)
+```
+</details>
 
 # task 3 Methodology results and Discussion
 ## Methodology:
