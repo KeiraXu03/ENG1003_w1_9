@@ -133,7 +133,13 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 # Task 2 Methodology results and Discussion
 
 # task 3 Methodology results and Discussion
+## Result:
 <img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task3.gif"/>
+
+****
+**We found that the cost is under our expectation:**
+
+![5](https://github.com/KeiraXu03/image/blob/main/e24b1eae634324769b137ecdd37282e.png)
 
 # task 4 Methodology results and Discussion
 
