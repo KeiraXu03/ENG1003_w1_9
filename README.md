@@ -135,13 +135,13 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 ## Methodology:
 ### First,we use C++ to help us find the possible values of the variables.
 
-<details>
-<summary>折叠内容</summary>
-```
-print("f")
-```
+<<details>
+  <summary>折叠代码块</summary>
+  <pre><code> 
+     System.out.println("虽然可以折叠代码块");
+     System.out.println("但是代码无法高亮");
+  </code></pre>
 </details>
-
 
 
 
