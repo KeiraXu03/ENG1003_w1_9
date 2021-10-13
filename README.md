@@ -31,10 +31,20 @@ This is a graph of global airline data. Under normal circumstances.You can see t
 "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
 
 # Theory of Path Planning Algorithm 
-
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
-
-# Introduction of the Engineering Tools 
+  Path planning technology [6,7] has a wide range of applications in many fields. The applications in the high-tech field include: autonomous robots' collision-free actions; UAVs' obstacle avoidance and penetration flight; cruise missiles to avoid radar searches, anti-rebound attacks, and complete burst explosion missions.Applications in daily life are: GPS navigation; road planning based on GIS system; urban road network planning and navigation. Applications in the field of decision management include: vehicle problems in logistics management (VRP) and similar resource management resource allocation problems. Routing issues in the field of communication technology, etc.Basically, all the planning problems that can be topologically formed as a point-line network can be solved by the method of path planning.  
+  The core of path planning is the design of algorithms. Path planning algorithms [8] have received widespread attention. From traditional algorithms to later algorithms developed in combination with bionics, intelligent algorithms have made tremendous progress.Different intelligent algorithms have different characteristics, and their scope and fields are also. Therefore, studying the path planning intelligent algorithm from the characteristics of the algorithm itself and its application is of great significance to the development of path planning technology.  
+General steps of path planning
+  General path planning problems in the continuous domain, such as dynamic path planning problems of robots and aircraft, etc. The general steps include environment modeling, path search, and path smoothing[9,10].  
+  **Common path planning algorithms**  
+  **（1）Traditional algorithm**  
+  Traditional path planning algorithms include: simulated annealing algorithm, artificial potential field method, fuzzy logic algorithm, tabu search algorithm and so on.  
+  **（2）Graphics algorithm**  
+  Traditional algorithms often have difficult modeling problems when solving practical problems. Graphics methods provide basic modeling methods. However, graphics methods generally have insufficient search capabilities, and they often need to be combined with specialized search algorithms. Graphics methods include: C-space method, grid method, free space method, voronoi diagram method, etc.  
+  **（3）Intelligent Bionics Algorithm**  
+  When dealing with path planning problems in the context of complex and dynamic environmental information, inspiration from nature can often play a very good role. Intelligent bionics algorithm is the algorithm people discover through bionics research. Commonly used are: ant colony algorithm, neural network algorithm, particle swarm algorithm, genetic algorithm, etc  
+  **（4）Other algorithms**  
+  There are also some artificially invented algorithms that are widely used because of their excellent characteristics. These algorithms generally have strong path search capabilities and can play a good role in discrete path topology networks.These algorithms include: A* algorithm, Dijkstra algorithm, fallback algorithm, Floyd algorithm, etc.
+# of the Engineering Tools 
 
 ## a.Python
 
@@ -129,5 +139,11 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 <span id="jump1">[1]</span> *Why was Python created in the first place?. Python FAQ. [2007-03-22].*     
 <span id="jump2">[2]</span> *van Rossum, Guido. The fate of reduce() in Python 3000. Artima Developer. [2007-03-22].*    
 <span id="jump3">[3]</span> *Weis, Kristina. GitHub CEO and Co-Founder Chris Wanstrath Keynoting Esri’s DevSummit!. 2014-02-10 [2015-07-02].*  
-<span id="jump4">[4]</span> *Dave Lee. Microsoft buys Github code-sharing site for $7.5bn. BBC News. 2018-06-04 [2018-06-06].*       
-<span id="jump5">[5]</span> *defunkt. A bright future for GitHub. The GitHub Blog. 2018-06-04 [2018-06-06].*   
+<span id="jump4">[4]</span> *Lee. Microsoft buys Github code-sharing site for $7.5bn. BBC News. 2018-06-04 [2018-06-06].*       
+<span id="jump5">[5]</span> *defunkt. A bright future for GitHub. The GitHub Blog. 2018-06-04 [2018-06-06].*  
+<span id="jump6">[6]</span> *Cong Yanfeng. Research on path planning method based on rolling optimization principle [D]. Jilin: Jilin University, 2007.*  
+<span id="jump7">[7]</span> *Peter Stiles, Ira Glickstein.RoutePlanning[C].IEEE,1991:420-425.*  
+<span id="jump8">[8]</span> *Zhang Yongfang, Zhang An, Zhang Zhiyu, et al. Tactical flight path planning algorithm[J]. Journal of Traffic and Transportation Engineering, 20
+06 (12) :84-87*  
+<span id="jump9">[9]</span> *Xu Peipei. Research on global path planning algorithm of mobile robot in complex dynamic environment. [D]. Beijing: Beijing University of Posts and Telecommunications, 2009*  
+<span id="jump10">[10]</span> *Wang Tao.Robot path planning and simulation system based on ant colony algorithm[D]. Xi'an: Xi'an University of Science and Technology, 2009.*
