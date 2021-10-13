@@ -132,6 +132,16 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 
 ![5](https://github.com/KeiraXu03/image/blob/main/e24b1eae634324769b137ecdd37282e.png)
 # Task 2 Methodology results and Discussion
+## Methodology:
+### First,we use C++ to help us find the possible values of the variables.
+```
+<details>
+<summary>折叠内容</summary>
+在markdown中折叠一部分内容, 点击可以展开.
+</details>
+```
+
+
 
 # task 3 Methodology results and Discussion
 ## Methodology:
