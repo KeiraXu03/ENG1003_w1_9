@@ -66,6 +66,7 @@ General steps of path planning
 
 ### Introduction
 Python was founded by Guido van Rossum, who was working at the Dutch Mathematical and Computer Science Research Institute in Amsterdam, and during Christmas 1989, Guido van Rossum, in order to pass the time, decided to develop a new interpretive scripting language as a successor to the ABC language, as an alternative to using the Unix shell and C for system administration, and to take on the responsibility of interacting with the Amoeba operating system and handling exceptions. Interaction and exception handling with the Amoeba operating system [[6]](#jump1)
+It is a high-level programming language that is easy to learn and read. One of the main ideas of python is “simple”. This main idea can lower the maintenance cost of the program. The most important thing is python is free of charge to all major platforms.
 ![python](https://github.com/KeiraXu03/image/blob/main/python.png)
 Python reached version 1.0 in January 1994. The main new feature of this release is to include the functional programming tools lambda, map, filter and reduce provided by Amrit Prem[[7]](#jump2)
 ### What python can do?
