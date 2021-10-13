@@ -49,9 +49,9 @@ General steps of path planning
 ## a.Python
 
 ### Introduction
-Python was founded by Guido van Rossum, who was working at the Dutch Mathematical and Computer Science Research Institute in Amsterdam, and during Christmas 1989, Guido van Rossum, in order to pass the time, decided to develop a new interpretive scripting language as a successor to the ABC language, as an alternative to using the Unix shell and C for system administration, and to take on the responsibility of interacting with the Amoeba operating system and handling exceptions. Interaction and exception handling with the Amoeba operating system [[1]](#jump1)
+Python was founded by Guido van Rossum, who was working at the Dutch Mathematical and Computer Science Research Institute in Amsterdam, and during Christmas 1989, Guido van Rossum, in order to pass the time, decided to develop a new interpretive scripting language as a successor to the ABC language, as an alternative to using the Unix shell and C for system administration, and to take on the responsibility of interacting with the Amoeba operating system and handling exceptions. Interaction and exception handling with the Amoeba operating system [[6]](#jump1)
 ![python](https://github.com/KeiraXu03/image/blob/main/python.png)
-Python reached version 1.0 in January 1994. The main new feature of this release is to include the functional programming tools lambda, map, filter and reduce provided by Amrit Prem[[2]](#jump2)
+Python reached version 1.0 in January 1994. The main new feature of this release is to include the functional programming tools lambda, map, filter and reduce provided by Amrit Prem[[7]](#jump2)
 ### What python can do?
 * *Python can be used on a server to create web applications.*   
 * *Python can be used alongside software to create workflows.*   
@@ -70,10 +70,10 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 * *A place to Share, Communicate, Collaborate with others, especially programmers*  
 
 ### How GitHubThe GitHub developed？
-* *The GitHub platform began development on October 1, 2007.*[[3]](#jump3)  
+* *The GitHub platform began development on October 1, 2007.*[[8]](#jump3)  
 * *On April 10, 2008, GitHub was officially launched.*  
 * *On January 23, 2014, co-founder Tom Preston-Werner took over the position of president from another co-founder, Chris Wanstrath. The latter will also take over the CEO position left by Preston Werner.*  
-* *On the evening of June 4, 2018, American technology company Microsoft announced the acquisition of GitHub for $7.5 billion in stocks[[4]](#jump4) [[5]](#jumup5).On October 29th, Microsoft's vice president of developer services, Nat Friedman (Nat Friedman) will become the new CEO of GitHub.*  
+* *On the evening of June 4, 2018, American technology company Microsoft announced the acquisition of GitHub for $7.5 billion in stocks[[9]](#jump4) [[10]](#jumup5).On October 29th, Microsoft's vice president of developer services, Nat Friedman (Nat Friedman) will become the new CEO of GitHub.*  
 * *On March 17, 2020, Github announced the acquisition of npm. GitHub has now guaranteed that npm will always be free to use.*
 # Task 1 Methodology results and Discussion
 ## Methodology:
