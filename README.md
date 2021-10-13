@@ -88,7 +88,7 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 **Set fuel consuming area and time consuming area:**
 ![3](https://github.com/KeiraXu03/image/blob/main/6a1f1753efd2a5eb662ab240d4283bb.png)
 ### Secondly,according to our goal,we change the code:
-```
+```python
 # start and goal position
     sx = 0.0  # [m]
     sy = 0.0  # [m]
@@ -98,7 +98,7 @@ Python reached version 1.0 in January 1994. The main new feature of this release
     robot_radius = 1.0  # [m]
 ```
 ****
-```
+```python
     # set obstacle positions for group 9
     for i in range(-10, 20): # draw the free border
         ox.append(20.0)
@@ -109,7 +109,7 @@ Python reached version 1.0 in January 1994. The main new feature of this release
         oy.append(140-2*i)
 ```
 ****
-```
+```python
 # set fuel consuming area
     fc_x, fc_y = [], []
     for i in range(30, 35):
