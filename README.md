@@ -145,8 +145,22 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 <details>
 <summary>123</summary>
 
-```java
-import(这里是代码区域)
+```C++
+#include<iostream>
+using namespace std;
+int main()
+{
+    
+    for(int cf=0;cf<=60;cf++)
+    {
+        for(int ct=0;ct<=60;ct++)
+        {
+            if(ct-cf<=30&&2*ct-cf>=20&&-4*ct-cf>=-220&&-0.5*ct-cf<=-30)
+            cout<<cf<<" "<<ct<<endl;
+        }
+    }
+    return 0; 
+}
 ```
 </details>
 
