@@ -10,7 +10,6 @@
     <li><a href="#Task-1-Methodology-results-and-Discussion">Task 1:Methodology, results and Discussion</a></li>
     <li><a href="#Task-2-Methodology-results-and-Discussion">Task 2:Methodology, results and Discussion</a></li>
     <li><a href="#task-3-Methodology-results-and-Discussion">task 3:Methodology, results and Discussion</a></li>
-    <li><a href="#task-4-Methodology-results-and-Discussion">task 4:Methodology, results and Discussion</a></li>
     <li><a href="#Reflective-Essay">Reflective Essay </a></li>
     <li><a href="#Reference">Reference </a></li>
   </ol>
@@ -133,6 +132,29 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 # Task 2 Methodology results and Discussion
 
 # task 3 Methodology results and Discussion
+## Methodology:
+### First,we should find the code which needs to be changed:
+* We need to calculate the cost.
+* We need to create a minus cost area
+### Secondly,according to our goal,we change the code:
+**Calculate the cost:** 
+```
+# add minus cost in minus cost area
+                if self.calc_grid_position(node.x, self.min_x) in self.pc_x:
+                    if self.calc_grid_position(node.y, self.min_y) in self.pc_y:
+                        # print("fuel consuming area!!")
+                        node.cost = node.cost + self.Delta_P* self.C_P* self.motion[i][2]
+```
+****
+**Set minus cost area:**
+```
+# set minus cost area
+    tc_x, tc_y = [], []
+    for i in range(0, 20):
+        for j in range(20, 40):
+            tc_x.append(i)
+            tc_y.append(j)
+```
 ## Result:
 <img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task3.gif"/>
 
@@ -140,8 +162,6 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 **We found that the cost is under our expectation:**
 
 ![5](https://github.com/KeiraXu03/image/blob/main/e24b1eae634324769b137ecdd37282e.png)
-
-# task 4 Methodology results and Discussion
 
 # Reflective Essay
 
