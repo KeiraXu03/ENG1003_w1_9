@@ -37,19 +37,29 @@ On the other hand from ATC perspective, path planning is crucial in maintaining 
 Moreover, path planning can bring safety to the aviation industry. Flight safety is the biggest concern in the aviation industry. There have been many flight accidents involving weather in recent years. It is very normal to observe bad weather conditions during the flight. Good path planning can enhance the efficiency of air traffic management, also it can help the aircraft avoid bad weather conditions, prohibited areas. In addition, a backup plan can also be planned in path planning in order to cope with an emergency situation. Path planning can also find the path which uses the least energy cost so it can help the airline to reduce the operation cost, safety and reduce the workload of the pilot and air traffic controller. 
 
 # Theory of Path Planning Algorithm 
+
   Path planning technology[[1]](#jump6)[[2]](#jump7) has a wide range of applications in many fields. The applications in the high-tech field include: autonomous robots' collision-free actions; UAVs' obstacle avoidance and penetration flight; cruise missiles to avoid radar searches, anti-rebound attacks, and complete burst explosion missions.Applications in daily life are: GPS navigation; road planning based on GIS system; urban road network planning and navigation. Applications in the field of decision management include: vehicle problems in logistics management (VRP) and similar resource management resource allocation problems. Routing issues in the field of communication technology, etc.Basically, all the planning problems that can be topologically formed as a point-line network can be solved by the method of path planning.  
+  
   The core of path planning is the design of algorithms. Path planning algorithms [[3]](#jump8) have received widespread attention. From traditional algorithms to later algorithms developed in combination with bionics, intelligent algorithms have made tremendous progress.Different intelligent algorithms have different characteristics, and their scope and fields are also. Therefore, studying the path planning intelligent algorithm from the characteristics of the algorithm itself and its application is of great significance to the development of path planning technology.  
+  
 General steps of path planning
+
   General path planning problems in the continuous domain, such as dynamic path planning problems of robots and aircraft, etc. The general steps include environment modeling, path search, and path smoothing[[4]](#jump9)[[5]](#jump).  
+  
   **Common path planning algorithms**  
+  
   **（1）Traditional algorithm**  
   Traditional path planning algorithms include: simulated annealing algorithm, artificial potential field method, fuzzy logic algorithm, tabu search algorithm and so on.  
+  
   **（2）Graphics algorithm**  
   Traditional algorithms often have difficult modeling problems when solving practical problems. Graphics methods provide basic modeling methods. However, graphics methods generally have insufficient search capabilities, and they often need to be combined with specialized search algorithms. Graphics methods include: C-space method, grid method, free space method, voronoi diagram method, etc.  
+  
   **（3）Intelligent Bionics Algorithm**  
   When dealing with path planning problems in the context of complex and dynamic environmental information, inspiration from nature can often play a very good role. Intelligent bionics algorithm is the algorithm people discover through bionics research. Commonly used are: ant colony algorithm, neural network algorithm, particle swarm algorithm, genetic algorithm, etc  
+  
   **（4）Other algorithms**  
   There are also some artificially invented algorithms that are widely used because of their excellent characteristics. These algorithms generally have strong path search capabilities and can play a good role in discrete path topology networks.These algorithms include: A* algorithm, Dijkstra algorithm, fallback algorithm, Floyd algorithm, etc.
+  
 # Introduction of the Engineering Tools 
 
 ## a.Python
