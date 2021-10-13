@@ -73,7 +73,7 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 * *The GitHub platform began development on October 1, 2007.*[[8]](#jump3)  
 * *On April 10, 2008, GitHub was officially launched.*  
 * *On January 23, 2014, co-founder Tom Preston-Werner took over the position of president from another co-founder, Chris Wanstrath. The latter will also take over the CEO position left by Preston Werner.*  
-* *On the evening of June 4, 2018, American technology company Microsoft announced the acquisition of GitHub for $7.5 billion in stocks[[9]](#jump4),[[10]](#jumup5).On October 29th, Microsoft's vice president of developer services, Nat Friedman (Nat Friedman) will become the new CEO of GitHub.*  
+* *On the evening of June 4, 2018, American technology company Microsoft announced the acquisition of GitHub for $7.5 billion in stocks[[9]](#jump4),[[10]](#jump5).On October 29th, Microsoft's vice president of developer services, Nat Friedman (Nat Friedman) will become the new CEO of GitHub.*  
 * *On March 17, 2020, Github announced the acquisition of npm. GitHub has now guaranteed that npm will always be free to use.*
 # Task 1 Methodology results and Discussion
 ## Methodology:
@@ -86,7 +86,7 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 ****
 **Set fuel consuming area and time consuming area:**
 ![3](https://github.com/KeiraXu03/image/blob/main/6a1f1753efd2a5eb662ab240d4283bb.png)
-### Secondly,according to our goal,we change the code:**
+### Secondly,according to our goal,we change the code:
 ```
 # start and goal position
     sx = 0.0  # [m]
