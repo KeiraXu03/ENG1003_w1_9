@@ -185,7 +185,8 @@ int main()
 ```
 ****
 **_By trying we found that when both variables are taken as 20, the total cost is the least_**
-
+![222](https://github.com/KeiraXu03/image/blob/main/cc33451acef9a2f1845fe5a9ff757d2.png)
+****
 # task 3 Methodology results and Discussion
 ## Methodology:
 ### First,we should find the code which needs to be changed:
