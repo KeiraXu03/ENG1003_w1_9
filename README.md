@@ -234,7 +234,14 @@ int main()
 # Reflective Essay
 ### 1
 In this project, I served as the group leader, mainly responsible for the assignment of work within the group and the integration of students' codes. Task one is the section I am mainly responsible for. The teacher's explanation made me understand that when we meet a new problem, we don't need to write the code from scratch. Instead, we can download the relevant code from GitHub and modify it to get the program we want.
+
 ### 2
+In this project, I am mainly responsible for the short essay part of the assignment, some python assignments in the previous assignment,s and provide opinions and support to the group leaders.
+AAE freshman project is the first project that I had in my university school life. Therefore, I have many things need to learn during the project such as how to work with my groupmate, how to commutate with them etc. Luckily, my groupmates are very nice to me, willing to share their experience and help each other.=
+For an ae student, I am fortunate for doing AAE freshman project, because this project is something related to aviation which I will interest in it. Path planning is one of the interesting topics to me, as I wanted to become an air traffic controller in the future. Studying path planning can also study the distribution of the airspace and navigation system. 
+During this project, I understand that engineer is not just about components and work. We have to learn python and 3D CAD as well which are used to design an aircraft. Besides, I know the GitHub software through this project. Before this project, I don’t know GitHub and python can be used in flight control software for UAV, aviation services engineering, logistics, and facility management, machine learning for data analysis, aeronautical engineering, aircraft maintenance, and navigation and positioning.
+![image](https://user-images.githubusercontent.com/90884553/137281151-eaeacc35-38bc-4e78-ba17-065f4f8367cb.png)
+
 ### 3
 ### 4
 ### 5
