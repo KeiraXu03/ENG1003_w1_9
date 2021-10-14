@@ -205,11 +205,10 @@ int main()
 **Set minus cost area:**
 ```python
 # set minus cost area
-    tc_x, tc_y = [], []
-    for i in range(0, 20):
-        for j in range(20, 40):
-            tc_x.append(i)
-            tc_y.append(j)
+        pc_x, pc_y = [], []
+    for i in range(0, 16):
+            pc_x.append(i)
+            pc_y.append(i)
 ```
 ## Result:
 <img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task3.gif"/>
