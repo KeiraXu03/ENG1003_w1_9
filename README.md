@@ -1,4 +1,3 @@
-<span id="jump100">[1]</span>
 <p align="center">
 
   <h1 align="center">ENG1003_w1_9' s report</h1>
@@ -19,7 +18,6 @@
 
 <!-- ABOUT THE PROJECT -->
 # Background of Path Planning to Aviation Engineering
-https://img.shields.io/badge/Release-Ver1.0.0-blue.svg
 
 When travelling by air, we may often think: what is the trajectory of the plane in the sky？ how is the plane's route  planned？
 This is a graph of global airline data. Under normal circumstances.You can see that there are approximately 100,000 aircraft movements per day, taking off and landing between 6,000 airports.
@@ -36,7 +34,7 @@ Froma airline perspective ,with navigation technology advancing different new pr
 On the other hand from ATC perspective, path planning is crucial in maintaining efficient use of airspace with balance public interest as aircraft operations produces noise to the surrounding community.Therefore when constructing flight path (SID/STAR) in AIP noise mitigations measures are taken into account following ICAO guidelines. Take Hong Kong as example ,aircraft operations between 11pm to 7am departing east are required to deviate south to the southern district to avoid noise disturbance to the populated areas in both sides of the victoria harbour.
 
 Moreover, path planning can bring safety to the aviation industry. Flight safety is the biggest concern in the aviation industry. There have been many flight accidents involving weather in recent years. It is very normal to observe bad weather conditions during the flight. Good path planning can enhance the efficiency of air traffic management, also it can help the aircraft avoid bad weather conditions, prohibited areas. In addition, a backup plan can also be planned in path planning in order to cope with an emergency situation. Path planning can also find the path which uses the least energy cost so it can help the airline to reduce the operation cost, safety and reduce the workload of the pilot and air traffic controller. 
-[!(https://img.shields.io/badge/Release-Ver1.0.0-blue.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
+[!(https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)](https://img.shields.io/badge/Release-Ver1.0.0-blue.svg)
 # Theory of Path Planning Algorithm 
 
   Path planning technology[[1]](#jump6)[[2]](#jump7) has a wide range of applications in many fields. The applications in the high-tech field include: autonomous robots' collision-free actions; UAVs' obstacle avoidance and penetration flight; cruise missiles to avoid radar searches, anti-rebound attacks, and complete burst explosion missions.Applications in daily life are: GPS navigation; road planning based on GIS system; urban road network planning and navigation. Applications in the field of decision management include: vehicle problems in logistics management (VRP) and similar resource management resource allocation problems. Routing issues in the field of communication technology, etc.Basically, all the planning problems that can be topologically formed as a point-line network can be solved by the method of path planning.  
