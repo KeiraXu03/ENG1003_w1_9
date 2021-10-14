@@ -18,29 +18,6 @@
 
 <!-- ABOUT THE PROJECT -->
 # Background of Path Planning to Aviation Engineering
-<body style="height: 2000px;">
-<button id="test" style="position:fixed;right:10px;bottom:10px;">回到顶部</button>
-<script>
-var timer  = null;
-test.onclick = function(){
-    cancelAnimationFrame(timer);
-    //获取当前毫秒数
-    var startTime = +new Date();     
-    //获取当前页面的滚动高度
-    var b = document.body.scrollTop || document.documentElement.scrollTop;
-    var d = 500;
-    var c = b;
-    timer = requestAnimationFrame(function func(){
-        var t = d - Math.max(0,startTime - (+new Date()) + d);
-        document.documentElement.scrollTop = document.body.scrollTop = t * (-c) / d + b;
-        timer = requestAnimationFrame(func);
-        if(t == d){
-          cancelAnimationFrame(timer);
-        }
-    });
-}
-</script>
-</body>
 When travelling by air, we may often think: what is the trajectory of the plane in the sky？ how is the plane's route  planned？
 This is a graph of global airline data. Under normal circumstances.You can see that there are approximately 100,000 aircraft movements per day, taking off and landing between 6,000 airports.
 
@@ -57,7 +34,7 @@ On the other hand from ATC perspective, path planning is crucial in maintaining 
 
 Moreover, path planning can bring safety to the aviation industry. Flight safety is the biggest concern in the aviation industry. There have been many flight accidents involving weather in recent years. It is very normal to observe bad weather conditions during the flight. Good path planning can enhance the efficiency of air traffic management, also it can help the aircraft avoid bad weather conditions, prohibited areas. In addition, a backup plan can also be planned in path planning in order to cope with an emergency situation. Path planning can also find the path which uses the least energy cost so it can help the airline to reduce the operation cost, safety and reduce the workload of the pilot and air traffic controller. 
 
-[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Release-Ver1.0.0-blue.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
+[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back to top-readme1.0.0-blue.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 
 # Theory of Path Planning Algorithm 
 
