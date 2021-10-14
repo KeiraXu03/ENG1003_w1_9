@@ -235,7 +235,7 @@ int main()
 ### 1
 In this project, I served as the group leader, mainly responsible for the assignment of work within the group and the integration of students' codes. Task one is the section I am mainly responsible for. The teacher's explanation made me understand that when we meet a new problem, we don't need to write the code from scratch. Instead, we can download the relevant code from GitHub and modify it to get the program we want.
 
-### 2
+### 2 (Hui Kwan To 21055999d)
 In this project, I am mainly responsible for the short essay part of the assignment, some python assignments in the previous assignment,s and provide opinions and support to the group leaders.
 
 AAE freshman project is the first project that I had in my university school life. Therefore, I have many things need to learn during the project such as how to work with my groupmate, how to commutate with them etc. Luckily, my groupmates are very nice to me, willing to share their experience and help each other.=
