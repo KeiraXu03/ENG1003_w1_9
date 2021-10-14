@@ -206,7 +206,12 @@ int main()
 ![5](https://github.com/KeiraXu03/image/blob/main/e24b1eae634324769b137ecdd37282e.png)
 
 # Reflective Essay
-
+### 1
+In this project, I served as the group leader, mainly responsible for the assignment of work within the group and the integration of students' codes. Task one is the section I am mainly responsible for. The teacher's explanation made me understand that when we meet a new problem, we don't need to write the code from scratch. Instead, we can download the relevant code from GitHub and modify it to get the program we want.
+### 2
+### 3
+### 4
+### 5
 # Reference
 <span id="jump6">[1]</span> *Cong Yanfeng. Research on path planning method based on rolling optimization principle [D]. Jilin: Jilin University, 2007.*  
 <span id="jump7">[2]</span> *Peter Stiles, Ira Glickstein.RoutePlanning[C].IEEE,1991:420-425.*  
