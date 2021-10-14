@@ -199,6 +199,12 @@ int main()
 * We need to calculate the cost.
 * We need to create a minus cost area
 ### Secondly,according to our goal,we change the code:
+**Add variables**
+```python
+       self.Delta_F_A = 0.2 # additional fuel
+        self.Delta_T_A = 0.2 # additional time 
+```
+****
 **Calculate the cost:** 
 ```python
 # add minus cost in minus cost area
