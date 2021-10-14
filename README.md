@@ -171,6 +171,19 @@ int main()
 **Running results:**
 ![111](https://github.com/KeiraXu03/image/blob/main/8b27c4d9add61ab4ca111a08374b472.png)
 ****
+**Then we add the resulting data to the code**
+```python
+# you could modify the setup here for different aircraft models (based on the lecture slide) #
+        self.C_F = 20
+        self.Delta_F = 5
+        self.C_T = 20
+        self.Delta_T = 5
+        self.C_C = 10
+        
+        self.Delta_F_A = 5 # additional fuel
+        self.Delta_T_A = 5 # additional time 
+```
+****
 **_By trying we found that when both variables are taken as 20, the total cost is the least_**
 
 # task 3 Methodology results and Discussion
