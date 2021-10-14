@@ -60,6 +60,7 @@ General steps of path planning
   **（4）Other algorithms**  
   There are also some artificially invented algorithms that are widely used because of their excellent characteristics. These algorithms generally have strong path search capabilities and can play a good role in discrete path topology networks.These algorithms include: A* algorithm, Dijkstra algorithm, fallback algorithm, Floyd algorithm, etc.
   
+[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-Cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 # Introduction of the Engineering Tools 
 
 ## a.Python
@@ -93,6 +94,8 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 * *On January 23, 2014, co-founder Tom Preston-Werner took over the position of president from another co-founder, Chris Wanstrath. The latter will also take over the CEO position left by Preston Werner.*  
 * *On the evening of June 4, 2018, American technology company Microsoft announced the acquisition of GitHub for $7.5 billion in stocks[[9]](#jump4),[[10]](#jump5).On October 29th, Microsoft's vice president of developer services, Nat Friedman (Nat Friedman) will become the new CEO of GitHub.*  
 * *On March 17, 2020, Github announced the acquisition of npm. GitHub has now guaranteed that npm will always be free to use.*
+
+[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-Cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 # Task 1 Methodology results and Discussion
 ## Methodology:
 ### First,we should find the code which needs to be changed.
@@ -148,6 +151,8 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 **We tried all the data and found that the model PolyU-A380 achieved minimum cost.**
 
 ![5](https://github.com/KeiraXu03/image/blob/main/e24b1eae634324769b137ecdd37282e.png)
+****
+[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-Cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 # Task 2 Methodology results and Discussion
 ## Methodology:
 ### First,we use C++ to help us find the possible values of the variables.
@@ -187,6 +192,7 @@ int main()
 **_By trying we found that when both variables are taken as 20, the total cost is the least_**
 ![222](https://github.com/KeiraXu03/image/blob/main/cc33451acef9a2f1845fe5a9ff757d2.png)
 ****
+[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-Cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 # task 3 Methodology results and Discussion
 ## Methodology:
 ### First,we should find the code which needs to be changed:
@@ -217,7 +223,8 @@ int main()
 **We found that the cost is under our expectation:**
 
 ![5](https://github.com/KeiraXu03/image/blob/main/e24b1eae634324769b137ecdd37282e.png)
-
+****
+[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-Cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 # Reflective Essay
 ### 1
 In this project, I served as the group leader, mainly responsible for the assignment of work within the group and the integration of students' codes. Task one is the section I am mainly responsible for. The teacher's explanation made me understand that when we meet a new problem, we don't need to write the code from scratch. Instead, we can download the relevant code from GitHub and modify it to get the program we want.
@@ -225,6 +232,8 @@ In this project, I served as the group leader, mainly responsible for the assign
 ### 3
 ### 4
 ### 5
+****
+[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-Cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 # Reference
 <span id="jump6">[1]</span> *Cong Yanfeng. Research on path planning method based on rolling optimization principle [D]. Jilin: Jilin University, 2007.*  
 <span id="jump7">[2]</span> *Peter Stiles, Ira Glickstein.RoutePlanning[C].IEEE,1991:420-425.*  
