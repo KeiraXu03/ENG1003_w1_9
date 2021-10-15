@@ -17,7 +17,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-# Background of Path Planning to Aviation Engineering
+# Background of Path Planning to Aviation Engineering[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 When travelling by air, we may often think: what is the trajectory of the plane in the sky？ how is the plane's route  planned？
 This is a graph of global airline data. Under normal circumstances.You can see that there are approximately 100,000 aircraft movements per day, taking off and landing between 6,000 airports.
 
@@ -58,8 +58,7 @@ General steps of path planning
   **（4）Other algorithms**  
   There are also some artificially invented algorithms that are widely used because of their excellent characteristics. These algorithms generally have strong path search capabilities and can play a good role in discrete path topology networks.These algorithms include: A* algorithm, Dijkstra algorithm, fallback algorithm, Floyd algorithm, etc.
   
-[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-Cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
-# Introduction of the Engineering Tools 
+# Introduction of the Engineering Tools [![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 
 ## a.Python
 
@@ -93,8 +92,7 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 * *On the evening of June 4, 2018, American technology company Microsoft announced the acquisition of GitHub for $7.5 billion in stocks[[9]](#jump4),[[10]](#jump5).On October 29th, Microsoft's vice president of developer services, Nat Friedman (Nat Friedman) will become the new CEO of GitHub.*  
 * *On March 17, 2020, Github announced the acquisition of npm. GitHub has now guaranteed that npm will always be free to use.*
 
-[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-Cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
-# Task 1 Methodology results and Discussion
+# Task 1 Methodology results and Discussion[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 ## Methodology:
 ### First,we should find the code which needs to be changed.
 **Start and Finish Point:**  
@@ -157,8 +155,7 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 
 ![5](https://github.com/KeiraXu03/image/blob/main/e24b1eae634324769b137ecdd37282e.png)
 ****
-[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-Cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
-# Task 2 Methodology results and Discussion
+# Task 2 Methodology results and Discussion [![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 ## Methodology:
 ### First,we use C++ to help us find the possible values of the variables.
 ```C++
@@ -197,8 +194,8 @@ int main()
 **_By trying we found that when both variables are taken as 20, the total cost is the least_**
 ![222](https://github.com/KeiraXu03/image/blob/main/cc33451acef9a2f1845fe5a9ff757d2.png)
 ****
-[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-Cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
-# task 3 Methodology results and Discussion
+
+# task 3 Methodology results and Discussion[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 ## Methodology:
 ### First,we should find the code which needs to be changed:
 * We need to calculate the cost.
@@ -235,8 +232,7 @@ int main()
 
 ![5](https://github.com/KeiraXu03/image/blob/main/e24b1eae634324769b137ecdd37282e.png)
 ****
-[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-Cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
-# Reflective Essay
+# Reflective Essay[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 ### 1
 In this project, I served as the group leader, mainly responsible for the assignment of work within the group and the integration of students' codes.    
 Task one is the section I am mainly responsible for. The teacher's explanation made me understand that when we meet a new problem, we don't need to write the code from scratch. Instead, we can download the relevant code from GitHub and modify it to get the program we want.
@@ -252,8 +248,8 @@ During this project, I understand that engineer is not just about components and
 ### 4
 ### 5
 ****
-[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-Cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
-# Reference
+
+# Reference[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 <span id="jump6">[1]</span> *Cong Yanfeng. Research on path planning method based on rolling optimization principle [D]. Jilin: Jilin University, 2007.*  
 <span id="jump7">[2]</span> *Peter Stiles, Ira Glickstein.RoutePlanning[C].IEEE,1991:420-425.*  
 <span id="jump8">[3]</span> *Zhang Yongfang, Zhang An, Zhang Zhiyu, et al. Tactical flight path planning algorithm[J]. Journal of Traffic and Transportation Engineering, 20
