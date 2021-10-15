@@ -146,6 +146,12 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 <img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task1.gif"/>  
 
 ****
+| Aircraft Model   |CF      | Delta F | CT     |Delta T |Cc       |Fa      |Ta      | Total cost|
+| :-----:          | :----: | :-----: | :----: | :----: | :-----: | :----: | :----: |  :----:   |
+| PolyU-A380   | 单元格 | 单元格 | 单元格   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |
+| PolyU-A381   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |
+| PolyU-A382   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |
+|PolyU-A383   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |
 **We tried all the data and found that the model PolyU-A380 achieved minimum cost.**
 
 ![5](https://github.com/KeiraXu03/image/blob/main/e24b1eae634324769b137ecdd37282e.png)
@@ -252,7 +258,7 @@ During this project, I understand that engineer is not just about components and
 <span id="jump8">[3]</span> *Zhang Yongfang, Zhang An, Zhang Zhiyu, et al. Tactical flight path planning algorithm[J]. Journal of Traffic and Transportation Engineering, 20
 06 (12) :84-87*  
 <span id="jump9">[4]</span> *Xu Peipei. Research on global path planning algorithm of mobile robot in complex dynamic environment. [D]. Beijing: Beijing University of Posts and Telecommunications, 2009*  
-<span id="jump10">[5]</span> *Wang Tao.Robot path planning and simulation system based on ant colony algorithm[D]. Xi'an: Xi'an University of Science and Technology, 2009.*
+<span id="jump10">[5]</span> *Wang Tao.Robot path planning and simulation system based on ant colony algorithm[D]. Xi'an: Xi'an University of Science and Technology, 2009.*  
 <span id="jump1">[6]</span> *Why was Python created in the first place?. Python FAQ. [2007-03-22].*     
 <span id="jump2">[7]</span> *van Rossum, Guido. The fate of reduce() in Python 3000. Artima Developer. [2007-03-22].*    
 <span id="jump3">[8]</span> *Weis, Kristina. GitHub CEO and Co-Founder Chris Wanstrath Keynoting Esri’s DevSummit!. 2014-02-10 [2015-07-02].*  
