@@ -233,7 +233,8 @@ int main()
 [![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-Cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 # Reflective Essay
 ### 1
-In this project, I served as the group leader, mainly responsible for the assignment of work within the group and the integration of students' codes. Task one is the section I am mainly responsible for. The teacher's explanation made me understand that when we meet a new problem, we don't need to write the code from scratch. Instead, we can download the relevant code from GitHub and modify it to get the program we want.
+In this project, I served as the group leader, mainly responsible for the assignment of work within the group and the integration of students' codes.    
+Task one is the section I am mainly responsible for. The teacher's explanation made me understand that when we meet a new problem, we don't need to write the code from scratch. Instead, we can download the relevant code from GitHub and modify it to get the program we want.
 
 ### 2 (Hui Kwan To 21055999d)
 In this project, I am mainly responsible for the short essay part of the assignment, some previous python assignments and provide opinions and support to the group leaders.
