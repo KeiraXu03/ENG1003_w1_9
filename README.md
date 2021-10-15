@@ -148,10 +148,11 @@ Python reached version 1.0 in January 1994. The main new feature of this release
 ****
 | Aircraft Model   |CF      | Delta F | CT     |Delta T |Cc       |Fa      |Ta      | Total cost|
 | :-----:          | :----: | :-----: | :----: | :----: | :-----: | :----: | :----: |  :----:   |
-| PolyU-A380   | 单元格 | 单元格 | 单元格   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |
-| PolyU-A381   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |
-| PolyU-A382   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |
-|PolyU-A383   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |单元格   | 单元格 | 单元格 |
+| PolyU-A380   | 1 | 1 | 2   | 5 | 10 |0.2  | 0.2 | 1626.62 |
+| PolyU-A381   | 1 | 1.5 |3   | 5 | 10 |0.3   | 0.4 | 2053.09 |
+| PolyU-A382   | 1 | 2.0 |4   | 5 | 10 |0.4   | 0.5 | 2479.41 | 
+| PolyU-A383   | 1 | 2.5|5   | 5 | 10 |0.5   | 0.1 |  2866.33|
+****
 **We tried all the data and found that the model PolyU-A380 achieved minimum cost.**
 
 ![5](https://github.com/KeiraXu03/image/blob/main/e24b1eae634324769b137ecdd37282e.png)
