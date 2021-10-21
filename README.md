@@ -250,6 +250,30 @@ During this project, I understand that engineer is not just about components and
 ### 5
 ****
 # Additional Task 1
+## Methodology:
+**Addition task is more difficult than any other task,so we need to figure out what is the order in which the program runs**
+****
+**conduct the main function**
+```python
+if __name__ == '__main__':
+    main()
+```
+****
+**The next step is to set obstacles and color the points, which is omitted here.**
+****
+**The most important part:use class:AStarPlanner
+```python
+a_star = AStarPlanner(ox, oy, grid_size, robot_radius, fc_x, fc_y, tc_x, tc_y)
+    rx, ry = a_star.planning(sx, sy, gx, gy)
+```
+****
+**And finally, the graph function**
+```python
+    if show_animation:  # pragma: no cover
+        plt.plot(rx, ry, "-r") # show the route 
+        plt.pause(0.001) # pause 0.001 seconds
+        plt.show() # show the plot
+```
 # Reference[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 <span id="jump6">[1]</span> *Cong Yanfeng. Research on path planning method based on rolling optimization principle [D]. Jilin: Jilin University, 2007.*  
 <span id="jump7">[2]</span> *Peter Stiles, Ira Glickstein.RoutePlanning[C].IEEE,1991:420-425.*  
