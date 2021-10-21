@@ -10,6 +10,7 @@
     <li><a href="#Task-1-Methodology-results-and-Discussion">Task 1:Methodology, results and Discussion</a></li>
     <li><a href="#Task-2-Methodology-results-and-Discussion">Task 2:Methodology, results and Discussion</a></li>
     <li><a href="#task-3-Methodology-results-and-Discussion">task 3:Methodology, results and Discussion</a></li>
+    <li><a href="#Additional-Task-1">Additional Task 1</a></li>
     <li><a href="#Reflective-Essay">Reflective Essay </a></li>
     <li><a href="#Reference">Reference </a></li>
   </ol>
@@ -248,7 +249,7 @@ During this project, I understand that engineer is not just about components and
 ### 4
 ### 5
 ****
-
+# Additional Task 1
 # Reference[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 <span id="jump6">[1]</span> *Cong Yanfeng. Research on path planning method based on rolling optimization principle [D]. Jilin: Jilin University, 2007.*  
 <span id="jump7">[2]</span> *Peter Stiles, Ira Glickstein.RoutePlanning[C].IEEE,1991:420-425.*  
