@@ -11,6 +11,7 @@
     <li><a href="#Task-2-Methodology-results-and-Discussion">Task 2:Methodology, results and Discussion</a></li>
     <li><a href="#task-3-Methodology-results-and-Discussion">task 3:Methodology, results and Discussion</a></li>
     <li><a href="#Additional-Task-1">Additional Task 1</a></li>
+    <li><a href="#Additional-Task-2">Additional Task 1</a></li>
     <li><a href="#Reflective-Essay">Reflective Essay </a></li>
     <li><a href="#Reference">Reference </a></li>
   </ol>
@@ -292,11 +293,6 @@ def main():
         ox.append(i)
         oy.append(140-2*i)
     
-    # for i in range(40, 45): # draw the button border 
-    #     ox.append(i)
-    #     oy.append(30.0)
-
-    
     # set fuel consuming area
     fc_x, fc_y = [], []
     for i in range(30, 35):
@@ -361,7 +357,88 @@ def main():
 ## result
 <img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task4.gif"/> 
 
-# Reflective Essay[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
+# Additional Task 2
+## Methodology:
+### Modify the code so that:
+* **Only the fuel-consuming area remains and generate it randomly with a fixed area (30x30)**  
+**solution:**
+```python
+fc_x, fc_y = [], []
+    r_fc_x = random.randrange(-9, 31)
+    r_fc_y = random.randrange(-9, 31)
+    for i in range(r_fc_x, r_fc_x+30):
+        for j in range(r_fc_y, r_fc_y+30):
+            fc_x.append(i)
+            fc_y.append(j)
+```
+****
+* **Diagonal movement is disabled, change parameter(s) so that the object could travel within one grid size**  
+**solution:**
+travel within one grid size:
+```python
+    grid_size = 1  
+    robot_radius = 0  
+```
+**Diagonal movements are disabled:**
+```python
+@staticmethod
+    def get_motion_model(): 
+        motion = [[1, 0, 1],
+                  [0, 1, 1],
+                  [-1, 0, 1],
+                  [0, -1, 1]]
+```
+****
+* **Obstacles are generated randomly with reasonable density**
+**solution:**
+```python
+for i in range(0,1200):#Based on several attempts, we found that the density is appropriate when the number of obstacles is 1200
+        g1=random.randrange(-9, 60)
+        g2=random.randrange(-9, 60)
+        if((abs(g1-sx)<=3 and abs(g2-sy)<=3 ) or (abs(g1-gx)<=3 and abs(g2-gy)<=3)):
+            continue
+        ox.append(g1)
+        oy.append(g2)
+```
+****
+* **Destination and starting points are generated randomly with at least a 50-unit distance in-between**
+**solution:**
+```python
+while True:
+        sx = random.randrange(-10, 59)  # [m]
+        sy = random.randrange(-10, 59)  # [m]
+        gx = random.randrange(-10, 59)  # [m]
+        gy = random.randrange(-10, 59)  # [m]
+        if (gx-sx) >= 50 or (sx-gx) >= 50 or (gy-sy) >= 50 or (sy-gy) >= 50:
+            break
+```
+* **Plotting of the fuel-consuming area would not cover the obstacles, and obstacles should not generateat/near the start and end poin**
+**solution:**
+```python
+for i in range(0,1200):
+        g1=random.randrange(-9, 60)
+        g2=random.randrange(-9, 60)
+        if((abs(g1-sx)<=3 and abs(g2-sy)<=3 ) or (abs(g1-gx)<=3 and abs(g2-gy)<=3)):##obstacles should not generateat/near the start and end poin
+            continue
+        ox.append(g1)
+        oy.append(g2)
+```
+****
+# result:
+**Since maps and paths are generated randomly, we only include three representative maps here**  
+**FIG. 1**
+
+<img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task5-1.gif"/> 
+
+**FIG. 2**
+
+<img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task5-2.gif"/> 
+
+**FIG. 3**
+
+<img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task5-3.gif"/> 
+
+# Reflective Essay[![111](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 ### 1
 In this project, I served as the group leader, mainly responsible for the assignment of work within the group and the integration of students' codes.    
 Task one is the section I am mainly responsible for. The teacher's explanation made me understand that when we meet a new problem, we don't need to write the code from scratch. Instead, we can download the relevant code from GitHub and modify it to get the program we want.
