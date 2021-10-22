@@ -442,7 +442,7 @@ for i in range(0,1200):
 ### 1 (XU,Zhuoning 21101256d)
 In this project, I served as the group leader, mainly responsible for the assignment of work within the group and the integration of students' codes.    
 Additional task is the section I am mainly responsible for. The teacher's explanation made me understand that when we meet a new problem, we don't need to write the code from scratch. Instead, we can download the relevant code from GitHub and modify it to get the program we want.In the first additional task due to the wrong idea, I spent a week or so on this think nothing, and then by chance it occurred to me that I only need to modify the main function.This incident made me realize that when we facing some problems that can't be solved,we can change our thoughts and maybe we will find the answer to the question.
-Another challenge we meet is the Additional task 2.
+Another challenge we meet is the Additional task 2.This task requires more code changes than any other task, and the task requirements are complex.One of the codes for the random starting end point and the fuel consumption area was written by my group members.His code gave me ideas, and the random number setting part of it I think is very well written.Based on his idea, I designed the code to set random obstacles.
 As the leader of our group, I also try to learn how to communicate with my group members. I didn't do all the work by myself but distributed the tasks to the group members and gave everyone a chance to practice.
 
 
