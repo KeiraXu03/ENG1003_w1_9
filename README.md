@@ -258,6 +258,106 @@ a_star = AStarPlanner(ox, oy, grid_size, robot_radius, fc_x, fc_y, tc_x, tc_y)
         plt.pause(0.001) # pause 0.001 seconds
         plt.show() # show the plot
 ```
+**What we should do is only to change the main function
+```python
+def main():
+    print(__file__ + " start the A star algorithm demo !!") # print simple notes
+
+    # start and goal position
+    sx = 0.0  # [m]
+    sy = 0.0  # [m]
+    gx = 10.0  # [m]
+    gy = 30.0  # [m]
+    grid_size = 1  # [m]
+    robot_radius = 1.0  # [m]
+    ox, oy = [], []
+    for i in range(-10, 60): # draw the button border 
+        ox.append(i)
+        oy.append(-10.0)
+    for i in range(-10, 60): # draw the right border
+        ox.append(60.0)
+        oy.append(i)
+    for i in range(-10, 60): # draw the top border
+        ox.append(i)
+        oy.append(60.0)
+    for i in range(-10, 60): # draw the left border
+        ox.append(-10.0)
+        oy.append(i)
+
+    for i in range(-10, 20): # draw the free border
+        ox.append(20.0)
+        oy.append(i)
+
+    for i in range(40, 50):
+        ox.append(i)
+        oy.append(140-2*i)
+    
+    # for i in range(40, 45): # draw the button border 
+    #     ox.append(i)
+    #     oy.append(30.0)
+
+    
+    # set fuel consuming area
+    fc_x, fc_y = [], []
+    for i in range(30, 35):
+        for j in range(0, 40):
+            fc_x.append(i)
+            fc_y.append(j)
+    
+    # set time consuming area
+    tc_x, tc_y = [], []
+    for i in range(0, 20):
+        for j in range(20, 40):
+            tc_x.append(i)
+            tc_y.append(j)
+
+    if show_animation:  # pragma: no cover
+        plt.plot(fc_x, fc_y, "oy") # plot the fuel consuming area
+        plt.plot(tc_x, tc_y, "or") # plot the time consuming area
+        plt.plot(ox, oy, ".k") # plot the obstacle
+        plt.plot(0, 0, "or") # plot the start position 
+        plt.plot(10,30, "oy") # plot the end position
+        plt.plot(32,20, "og")
+        plt.plot(50,50, "xb")
+        plt.grid(True) # plot the grid to the plot panel
+        plt.axis("equal") # set the same resolution for x and y axis 
+
+    a_star = AStarPlanner(ox, oy, grid_size, robot_radius, fc_x, fc_y, tc_x, tc_y)
+    rx, ry = a_star.planning(sx, sy, gx, gy)
+    if show_animation:  # pragma: no cover
+        plt.plot(rx, ry, "-b") # show the route 
+        plt.pause(0.001)
+        plt.plot(0, 0, "or") # plot the start position 
+        plt.plot(10,30, "oy") # plot the end position
+        plt.plot(32,20, "og")
+        plt.plot(50,50, "xb")# pause 0.001 seconds
+       ## plt.show() # show the plot
+    sx = 10.0  # [m]
+    sy = 30.0  # [m]
+    gx = 32.0  # [m]
+    gy = 20.0  # [m]
+    rx, ry = a_star.planning(sx, sy, gx, gy)
+    if show_animation:  # pragma: no cover
+        plt.plot(rx, ry, "-b") # show the route 
+        plt.pause(0.001) 
+        plt.plot(0, 0, "or") # plot the start position 
+        plt.plot(10,30, "oy") # plot the end position
+        plt.plot(32,20, "og")
+        plt.plot(50,50, "xb")# pause 0.001 seconds
+    sx = 32.0  # [m]
+    sy = 20.0  # [m]
+    gx = 50.0  # [m]
+    gy = 50.0  # [m
+    rx, ry = a_star.planning(sx, sy, gx, gy)
+    if show_animation:  # pragma: no cover
+        plt.plot(rx, ry, "-b") # show the route 
+        plt.pause(0.001) # pause 0.001 seconds
+        plt.plot(0, 0, "or") # plot the start position 
+        plt.plot(10,30, "oy") # plot the end position
+        plt.plot(32,20, "og")
+        plt.plot(50,50, "xb")# pause 0.001 seconds
+        plt.show() # show the plot
+```
 ## result
 <img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task4.gif"/> 
 
