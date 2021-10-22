@@ -233,22 +233,6 @@ int main()
 
 ![5](https://github.com/KeiraXu03/image/blob/main/e24b1eae634324769b137ecdd37282e.png)
 ****
-# Reflective Essay[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
-### 1
-In this project, I served as the group leader, mainly responsible for the assignment of work within the group and the integration of students' codes.    
-Task one is the section I am mainly responsible for. The teacher's explanation made me understand that when we meet a new problem, we don't need to write the code from scratch. Instead, we can download the relevant code from GitHub and modify it to get the program we want.
-
-### 2 (Hui Kwan To 21055999d)
-In this project, I am mainly responsible for the short essay part of the assignment, some previous python assignments and provide opinions and support to the group leaders.
-
-AAE freshman project is the first project that I had in my university school life. Therefore, I have many things need to learn during the project such as how to work with my groupmate, how to commutate with them etc. Luckily, my groupmates are very nice to me, willing to share their experience and help each other.=
-For an ae student, I am fortunate for doing AAE freshman project, because this project is something related to aviation which I will interest in it. Path planning is one of the interesting topics to me, as I wanted to become an air traffic controller in the future. Studying path planning can also study the distribution of the airspace and navigation system. 
-
-During this project, I understand that engineer is not just about components and work. We have to learn python and 3D CAD as well which are used to design an aircraft. Besides, I know the GitHub software through this project. Before this project, I don’t know GitHub and python can be used in flight control software for UAV, aviation services engineering, logistics, and facility management, machine learning for data analysis, aeronautical engineering, aircraft maintenance, and navigation and positioning.
-### 3
-### 4
-### 5
-****
 # Additional Task 1
 ## Methodology:
 **Addition task is more difficult than any other task,so we need to figure out what is the order in which the program runs**
@@ -274,6 +258,24 @@ a_star = AStarPlanner(ox, oy, grid_size, robot_radius, fc_x, fc_y, tc_x, tc_y)
         plt.pause(0.001) # pause 0.001 seconds
         plt.show() # show the plot
 ```
+## result
+![11](https://github.com/KeiraXu03/image/blob/main/task4.gif)
+# Reflective Essay[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
+### 1
+In this project, I served as the group leader, mainly responsible for the assignment of work within the group and the integration of students' codes.    
+Task one is the section I am mainly responsible for. The teacher's explanation made me understand that when we meet a new problem, we don't need to write the code from scratch. Instead, we can download the relevant code from GitHub and modify it to get the program we want.
+
+### 2 (Hui Kwan To 21055999d)
+In this project, I am mainly responsible for the short essay part of the assignment, some previous python assignments and provide opinions and support to the group leaders.
+
+AAE freshman project is the first project that I had in my university school life. Therefore, I have many things need to learn during the project such as how to work with my groupmate, how to commutate with them etc. Luckily, my groupmates are very nice to me, willing to share their experience and help each other.=
+For an ae student, I am fortunate for doing AAE freshman project, because this project is something related to aviation which I will interest in it. Path planning is one of the interesting topics to me, as I wanted to become an air traffic controller in the future. Studying path planning can also study the distribution of the airspace and navigation system. 
+
+During this project, I understand that engineer is not just about components and work. We have to learn python and 3D CAD as well which are used to design an aircraft. Besides, I know the GitHub software through this project. Before this project, I don’t know GitHub and python can be used in flight control software for UAV, aviation services engineering, logistics, and facility management, machine learning for data analysis, aeronautical engineering, aircraft maintenance, and navigation and positioning.
+### 3
+### 4
+### 5
+****
 # Reference[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 <span id="jump6">[1]</span> *Cong Yanfeng. Research on path planning method based on rolling optimization principle [D]. Jilin: Jilin University, 2007.*  
 <span id="jump7">[2]</span> *Peter Stiles, Ira Glickstein.RoutePlanning[C].IEEE,1991:420-425.*  
