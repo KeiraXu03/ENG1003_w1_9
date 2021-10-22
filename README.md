@@ -260,6 +260,7 @@ a_star = AStarPlanner(ox, oy, grid_size, robot_radius, fc_x, fc_y, tc_x, tc_y)
 ```
 ## result
 <img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task4.gif"/> 
+
 # Reflective Essay[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 ### 1
 In this project, I served as the group leader, mainly responsible for the assignment of work within the group and the integration of students' codes.    
