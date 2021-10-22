@@ -11,7 +11,7 @@
     <li><a href="#Task-2-Methodology-results-and-Discussion">Task 2:Methodology, results and Discussion</a></li>
     <li><a href="#task-3-Methodology-results-and-Discussion">task 3:Methodology, results and Discussion</a></li>
     <li><a href="#Additional-Task-1">Additional Task 1</a></li>
-    <li><a href="#Additional-Task-2">Additional Task 1</a></li>
+    <li><a href="#Additional-Task-2">Additional Task 2</a></li>
     <li><a href="#Reflective-Essay">Reflective Essay </a></li>
     <li><a href="#Reference">Reference </a></li>
   </ol>
