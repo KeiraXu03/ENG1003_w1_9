@@ -439,9 +439,12 @@ for i in range(0,1200):
 <img width="570" height="450" src="https://github.com/KeiraXu03/image/blob/main/task5-3.gif"/> 
 
 # Reflective Essay[![111](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
-### 1
+### 1 (XU,Zhuoning 21101256d)
 In this project, I served as the group leader, mainly responsible for the assignment of work within the group and the integration of students' codes.    
-Task one is the section I am mainly responsible for. The teacher's explanation made me understand that when we meet a new problem, we don't need to write the code from scratch. Instead, we can download the relevant code from GitHub and modify it to get the program we want.
+Additional task is the section I am mainly responsible for. The teacher's explanation made me understand that when we meet a new problem, we don't need to write the code from scratch. Instead, we can download the relevant code from GitHub and modify it to get the program we want.In the first additional task due to the wrong idea, I spent a week or so on this think nothing, and then by chance it occurred to me that I only need to modify the main function.This incident made me realize that when we facing some problems that can't be solved,we can change our thoughts and maybe we will find the answer to the question.
+Another challenge we meet is the Additional task 2.
+As the leader of our group, I also try to learn how to communicate with my group members. I didn't do all the work by myself but distributed the tasks to the group members and gave everyone a chance to practice.
+
 
 ### 2 (Hui Kwan To 21055999d)
 In this project, I am mainly responsible for the short essay part of the assignment, some previous python assignments and provide opinions and support to the group leaders.
