@@ -467,7 +467,12 @@ My work are searching related information and makeing suggestions to the group l
 This project let me recognize the charm of programming. it is the beginning of my learning programming and i will learn more in the future to solve more problems with it.Finally,thanks to everyone' efforts to make our work better and lookiing forward to to future cooperation。
 
 ### 4
-### 5
+### 5 (Arshad Asaad 21102596d)
+The AAE freshman project for me was a very knowledgeable project. Before coming to university, I had learned a bit of python from IT class. But I never actually learned anything, I only memorized the words that would be used in tests and examinations. The AAE freshman project teacher gave us tasks and freedom to do our tasks however we wanted. The teachers would help us with any problems we had. The tasks given to me by the team leader were not too difficult. I did not know how to complete the programming, so I had to self-learn from online guides just as the teacher had told us. I found self-learning to be very helpful. It made the knowledge I learned stick in my brain and I have not forgotten it. I think this opportunity to self-learn has been the most valuable thing I have learned from the AAE freshman project. I now know the benefits of self-learning, which I find will be very useful in my future. 
+Github is very interesting, in the fact that it allows people across the world to remotely work together. I think it is very useful, and I am glad to have learned of it. The path planning programme I had to do was very fun to do. I found that it was challenging but I had fun facing the challenge. 
+One part I think I can improve upon is cooperation, I was not very involved with the group. I did finish the parts I was given, but I think I could have done more. The group leader was very good at his role.
+I will continue to learn programming, and absorb more knowledge. I hope there will be challenging yet fun programming tasks in the future for me to complete.
+
 ****
 # Reference[![Join the chat at https://gitter.im/guodongxiaren/README](https://img.shields.io/badge/Back-readme1.0.0-cyan.svg)](https://github.com/KeiraXu03/ENG1003_w1_9/blob/main/README.md)
 <span id="jump6">[1]</span> *Cong Yanfeng. Research on path planning method based on rolling optimization principle [D]. Jilin: Jilin University, 2007.*  
